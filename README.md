@@ -1,2 +1,3 @@
-# python-学习
-python规范介绍
+python 规范
+参考并学习链接
+https://github.com/amontalenti/elements-of-python-style/tree/master/zh-cn
